@@ -1,0 +1,21 @@
+username:249533
+password:1
+Vega32:C:\Users\249533\Desktop\MES THAT (Production Environment)\Vega32.rdp
+Operator:C:\Users\249533\Desktop\MES THAT (Production Environment)\Operator.rdp
+Master_Mes:C:\Users\249533\Desktop\ĐĂNG KÝ MASTER MES.xlsx
+Check_data:C:\Users\249533\Desktop\CHECK DATA MES.xlsx
+QADprod:C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QAD Enterprise Applications\QAD 2018EE PROD
+QADtest:C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QAD Enterprise Applications\QAD 2018EE TEST
+Checkdata_qad:C:\Users\249533\Desktop\CHECK QAD.xlsx
+Master_data:C:\\Users\\249533\\Desktop\\06.Master Data
+Acc_Managment:C:\Users\249533\Desktop\12.Accounts management.lnk
+Quytrinhvanhanh:C:\Users\249533\Desktop\00. Quy trinh van hanh - IT APPLICATION - Shortcut.lnk
+Update_report:S:\1. ADM\6.IT\04.Reference\1. Application\12. BaoCao App\5. Bao Cao Tuan GD
+Manual:C:\Users\249533\Desktop\1. Manual - Shortcut.lnk
+Recovery_Inventory:S:\1. ADM\6.IT\03.Operation\18.Recovery and inventory MES QAD
+open_orlace_app:D:\4.DEV\Oracle_App\Oracle_App\Oracle_App\bin\Debug\Oracle_App.exe
+QLTKMES_link:S:\1. ADM\6.IT\03.Operation\12.Accounts management\2. MES\JCQ50-IT002-17-Rev2 So tay quan ly tai khoan he thong MES.xlsx
+QLTKQAD_link:S:\1. ADM\6.IT\03.Operation\12.Accounts management\3. QAD\JCQ50-IT005-17-Rev 2So tay quan ly tai khoan he thong QAD.xlsx
+SCDLMES_link:S:\1. ADM\6.IT\03.Operation\02.Procedure\00. Quy trinh van hanh - IT APPLICATION\1. JCQ50-IT002\3. Sửa chữa dữ liệu\2025\JCQ50-IT002-10-Rev7 So tay quan ly sua chua du lieu MES.xlsx
+SCDLQAD_Link:S:\1. ADM\6.IT\03.Operation\02.Procedure\00. Quy trinh van hanh - IT APPLICATION\3. JCQ50-IT005\2. Sửa chữa dữ liệu\2025\JCQ50-IT005-10-Rev5 So tay sua chua du lieu QAD 2025.xlsx
+QLYC_Link:D:\3. Vận Hành\QUANLYYC\MES-QAD Operation.xlsx

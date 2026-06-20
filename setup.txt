@@ -1,0 +1,8 @@
+# creat venv
+python -m venv .venv_name --prompt="venv_name"
+# Build File
+pyinstaller --onefile --hidden-import=pyodbc  main.py
+
+pyinstaller --onefile --noconsole gui.py
+
+pyinstaller --noconfirm --onefile --windowed --icon "img2.ico" --name "PMSP" --add-data "img2.ico;."  GUI.py

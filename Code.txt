@@ -1,0 +1,23 @@
+OUTPUT TO "/home/mfg/pt_mstr_export.csv".
+PUT UNFORMATTED "Part'Description'PartType'ProductLine'UnitMeasure" SKIP.
+FOR EACH pt_mstr NO-LOCK WHERE pt_mstr.pt_part_type = "FG" OR pt_mstr.pt_part_type = "HFG":
+PUT UNFORMATTED 
+pt_mstr.pt_part "'" 
+pt_mstr.pt_desc1 "'" 
+pt_mstr.pt_part_type "'" 
+pt_mstr.pt_prod_line "'" 
+pt_mstr.pt_um SKIP.
+END.
+OUTPUT CLOSE.
+
+OUTPUT TO "/home/mfg/ld_det_export.csv".
+PUT UNFORMATTED "Part'Location'LotNumber'QuantityOnHand'Status" SKIP.
+FOR EACH ld_det NO-LOCK WHERE ld_det.ld_qty_oh > 0:
+PUT UNFORMATTED 
+ld_det.ld_part "'" 
+ld_det.ld_loc "'" 
+ld_det.ld_lot "'" 
+ld_det.ld_qty_oh "'" 
+ld_det.ld_status SKIP.
+END.
+OUTPUT CLOSE.
